@@ -10,4 +10,3 @@ Use it to compare same objects with comparable operators in place (int, bool, fl
 ## How to use it?
 
 Download the wheel file and install in your local, so you can import the avl_tree library.
-
